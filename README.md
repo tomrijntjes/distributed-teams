@@ -3,10 +3,12 @@
 A curated list of resources about managing a distributed team.
 This overview is assembled with software teams in mind, but could work for any team that has a large degree of individual work tied together in a team product.
 
-
 ## Process
+
+### Project Management
+
 Tenets:
-- Adjust your work process for collaborating effectively across timezones and cultures.
+- Collaborate effectively across timezones and cultures.
 - Minimize meetings but enable high-bandwidth communication
 - Output effectiveness over team cohesion
 
@@ -20,7 +22,7 @@ Strong documentation processes are extra important when asking questions to coll
 Tenets:
 - Everything as version controlled Markdown
 - Document how institutional knowledge evolved, not just its current state
-- Avoid Tribal knowledge
+- Avoid tribal knowledge
 
 Resources:
 
@@ -28,25 +30,22 @@ Resources:
 - [Locality of Reference Principle](https://en.wikipedia.org/wiki/Locality_of_reference)
 - [Blameless Post Mortem Templates](https://github.com/dastergon/postmortem-templates)
 
-## Tools
+## Collaboration Tools
 
-Tenets:
-- Self-hosting open source tools is strongly preferred
+Good tools offer both a managed and a self-hosted option.
 
-Resources
+Resources:
 
-- [Nextcloud](https://nextcloud.com/) for self-hosting calls and files.
+- [Nextcloud](https://nextcloud.com/) for calls and sharing files.
 - [Rocketchat](https://www.rocket.chat/) for instant messaging
+- [Snapify](https://snapify.it/) asynchronous high-bandwidth communication with short screen recordings
 
 ## Hiring
 
 Lightweight selection procedure.
 
-## Training
 
-## Contract Management
 
-Not sure if there are any OS solutions in this space.
 
 
 
