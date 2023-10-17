@@ -1,48 +1,30 @@
 # Open Guide to Managing Distributed Teams
 
-A curated list of resources about managing a distributed team.
-This overview is assembled with software teams in mind, but could work for any team that has a large degree of individual work tied together in a team product.
+A curated list of free and open source resources for managing distributed teams.
 
-## Process
+## Project Management
 
-### Project Management
+- [Kanban for distributed teams](https://www.nimblework.com/blog/kanban-for-remote-work-teams/) is a workflow that reduces overhead at the cost of predictability
+- [OpenProject](https://www.openproject.org/docs/getting-started/openproject-introduction/)is a comprehensive open-source project management software that supports distributed software teams.
 
-Tenets:
-- Collaborate effectively across timezones and cultures.
-- Minimize meetings but enable high-bandwidth communication
-- Output effectiveness over team cohesion
+## Documentation
 
-Resources:
-- [Kanban for distributed teams](https://www.nimblework.com/blog/kanban-for-remote-work-teams/)
+Strong documentation processes are extra important in distributed teams to make onboarding smoother and improve institutional learning.
 
-### Documentation
+- [Architectural Decision Records](https://adr.github.io/) enable asynchronous collaboration on decisions that are expensive to revert
+- [Locality of Reference Principle](https://en.wikipedia.org/wiki/Locality_of_reference) is a documentation guideline that emphasizes code comments over readmes and readmes over wikis.
+- [Blameless Post Mortem Templates](https://github.com/dastergon/postmortem-templates) improve institutional learning about operational challenges
+- [Read the Docs](https://about.readthedocs.com/) enables versioned, hosted documentation.
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) allow you to automatically generate changelogs based of commits messages.
 
-Strong documentation processes are extra important when asking questions to colleagues is not always efficiently possible.
-
-Tenets:
-- Everything as version controlled Markdown
-- Document how institutional knowledge evolved, not just its current state
-- Avoid tribal knowledge
-
-Resources:
-
-- [Architectural Decision Records](https://adr.github.io/)  
-- [Locality of Reference Principle](https://en.wikipedia.org/wiki/Locality_of_reference)
-- [Blameless Post Mortem Templates](https://github.com/dastergon/postmortem-templates)
-
-## Collaboration Tools
+## Collaboration
 
 Good tools offer both a managed and a self-hosted option.
-
-Resources:
 
 - [Nextcloud](https://nextcloud.com/) for calls and sharing files.
 - [Rocketchat](https://www.rocket.chat/) for instant messaging
 - [Snapify](https://snapify.it/) asynchronous high-bandwidth communication with short screen recordings
 
-## Hiring
-
-Lightweight selection procedure.
 
 
 
