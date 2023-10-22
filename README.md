@@ -5,7 +5,7 @@ A curated list of free and open source resources for managing distributed teams.
 ## Project Management
 
 - [Kanban for distributed teams](https://www.nimblework.com/blog/kanban-for-remote-work-teams/) is a workflow that reduces overhead at the cost of predictability
-- [OpenProject](https://www.openproject.org/docs/getting-started/openproject-introduction/)is a comprehensive open-source project management software that supports distributed software teams.
+- [OpenProject](https://www.openproject.org/docs/getting-started/openproject-introduction/) is a project management tool that supports distributed software teams.
 
 ## Documentation
 
@@ -21,9 +21,35 @@ Strong documentation processes are extra important in distributed teams to make 
 
 Good tools offer both a managed and a self-hosted option.
 
-- [Nextcloud](https://nextcloud.com/) for calls and sharing files.
-- [Rocketchat](https://www.rocket.chat/) for instant messaging
-- [Snapify](https://snapify.it/) asynchronous high-bandwidth communication with short screen recordings
+### Video Calls and Direct Messaging
+
+- [Nextcloud](https://nextcloud.com/) for video calls and sharing files.
+- [Rocketchat](https://www.rocket.chat/) for instant messaging and video calls.
+- [Jitsi Meet](https://jitsi.github.io/handbook/docs/devops-guide/) for video calls.
+- [Snapify](https://snapify.it/) asynchronous high-bandwidth communication with short screen recordings.
+
+### File Sharing
+
+- [Cryptpad](https://cryptpad.fr/) work together on documentation, diagrams or code.
+- [Nextcloud](https://nextcloud.com/) for video calls and sharing files.
+
+## Talent
+
+### Sourcing
+
+- Discord is great for sourcing talent. For example, [Reactiflux](https://www.reactiflux.com/) has a #job-board channel for React jobs
+- [Upwork](https://www.upwork.com/)
+- [Andela](https://andela.com/)
+
+### Testing
+
+- [Exercism](https://exercism.org/) hosts a repository of free coding exercises that can be used in interviews
+
+### Contracts & Onboarding
+
+- [Deel](https://www.deel.com/)
+- [Remote](https://remote.com/)
+- [RemotePass](https://www.remotepass.com/)
 
 
 
