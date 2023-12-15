@@ -2,6 +2,11 @@
 
 A curated list of free and open source resources for managing distributed teams.
 
+## Playbooks
+
+- [Bootstrapping Engineering Standards](https://tomrijntjes.github.io/04-bootstrap-engineering-standards.html) is a playbook for setting engineering standards that are hard to retrofit to an existing team. (disclaimer: my own writing)
+- [Managing Distributed Teams](https://tomrijntjes.github.io/03-distributed-teams-tenet.html) is about the key differences between building a colocated team versus a distributed team. (disclaimer: my own writing)
+
 ## Project Management
 
 - [Kanban for distributed teams](https://www.nimblework.com/blog/kanban-for-remote-work-teams/) is a workflow that reduces overhead at the cost of predictability
